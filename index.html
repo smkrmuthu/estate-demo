@@ -311,14 +311,14 @@ input.wt{width:6.5em}
 (function(){
 'use strict';
 
-/* ---------- Reference data: invented estates and divisions for the public demo ---------- */
+/* ---------- Reference data: real estate names with invented divisions and figures for the public demo ---------- */
 const VERSION = 7;
 const STORE_KEY = 'cemms-demo';
 const VARIETY = {CG:'Chandana Giri', S9:'Selection 9', '':'Variety to confirm'};
 const LAND = {B:'Bearing', Y:'Young plants', R:'Rock', W:'Water', E:'Empty', O:'Other crop'};
 const ESTATE = {
-  HSE:{name:'Hillside Estate', short:'Hillside', prefix:'HILL', sup:'A. Kumar'},
-  RVE:{name:'River Valley Estate', short:'River Valley', prefix:'RIVER', sup:'S. Devi'}
+  HSE:{name:'Glazebrooke Estate', short:'Glazebrooke', prefix:'HILL', sup:'A. Kumar'},
+  RVE:{name:'Byson Valley Estate', short:'Byson Valley', prefix:'RIVER', sup:'S. Devi'}
 };
 const SEED_JOBS = [{code:'PLK', name:'Plucking', harvest:true, active:true},{code:'PRN', name:'Pruning', active:true},{code:'WED', name:'Weeding', active:true},{code:'MNT', name:'Maintenance', active:true}];
 let JOB = {};
@@ -852,7 +852,7 @@ function topbar(){
     </div>
   </header>`;
 }
-function banner(){ return `<div class="banner"><span class="chip cherry">Prototype</span><span>Public demo. Every estate, division, worker and figure here is invented. Anything you enter stays in this browser.</span></div>`; }
+function banner(){ return `<div class="banner"><span class="chip cherry">Prototype</span><span>Public demo. The estate names are real; every division, worker and figure here is invented. Anything you enter stays in this browser.</span></div>`; }
 
 /* ===== Supervisor phone ===== */
 function renderField(){

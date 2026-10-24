@@ -4,7 +4,7 @@ A public, clickable demo of CEMMS (Coffee Estate Maintenance and Management Syst
 
 **Open the demo:** https://smkrmuthu.github.io/estate-demo/
 
-Every estate, division, worker and figure in this demo is invented. Anything you enter is kept only in your own browser; use **Reset** to start again.
+The two estates are Glazebrooke and Byson Valley; every division, worker and figure in this demo is invented. Anything you enter is kept only in your own browser; use **Reset** to start again.
 
 ## What to try
 
