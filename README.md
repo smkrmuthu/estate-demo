@@ -15,6 +15,8 @@ The two estates are Glazebrooke and Byson Valley; every division, worker and fig
 5. **Portal → Trace a bag**: look up `HILLAA13` to see a bag holding coffee from two harvest dates.
 6. **Portal → Reports**: copy the day's summary for WhatsApp, compare outturn (kilograms of cherry per kilogram of dried coffee) by route, variety and field, and see kilograms per plucker with a pay preview.
 
+Sign in first. Every sample password is `welcome`: use `owner` for Admin, or one of the supervisor usernames shown on the sign-in screen. A Supervisor sees only the dashboard, attendance, plucking and the weather register for one estate; Admin sees everything, including Users. In the weather register, record two readings a day (temperature in °C and rain in mm) with the time you took each one.
+
 Other things to try: mark a worker Off day or Holiday, reopen an approved day with a reason, record the number of bags and a remark on a weigh-in, enter the weight at washing (a difference over 1% needs a reason), pick drying trays by hand, log turning, covering and rain, put a batch on hold or split it, and weigh each packed bag.
 
 The whole demo is the single file `index.html`. It needs an internet connection only for fonts and the QR code library.
