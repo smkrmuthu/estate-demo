@@ -17,6 +17,6 @@ The two estates are Glazebrooke and Byson Valley; every division, worker and fig
 
 Sign in first. Every sample password is `welcome`: use `owner` for Admin, or one of the supervisor usernames shown on the sign-in screen. A Supervisor sees only the dashboard, attendance, plucking and the daily log; Admin sees everything, including Users. In the daily log, add readings for either estate (temperature in °C, rain in mm, fermentation room temperature) with the time you took each one.
 
-Other things to try: mark a worker Off day or Holiday, reopen an approved day with a reason, record the number of bags and a remark on a weigh-in, enter the weight at washing (a difference over 1% needs a reason), pick drying trays by hand, log turning, covering and rain, put a batch on hold or split it, and weigh each packed bag.
+Other things to try: start a Route B batch with a mix of fermentation flavours (the shares must add up to 100%), set a different target time for one batch, change the flavours and their times in Process settings, choose a rest in place of about 2 days after pulping and watch its timer, mark a worker Off day or Holiday, reopen an approved day with a reason, record the number of bags and a remark on a weigh-in, enter the weight at washing (a difference over 1% needs a reason), pick drying trays by hand, log turning, covering and rain, put a batch on hold or split it, and weigh each packed bag.
 
 The whole demo is the single file `index.html`. It needs an internet connection only for fonts and the QR code library.
